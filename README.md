@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enemona10
+- 👋 Hi, I’m Joey
 - 👀 I’m interested in blockchain engineering
 - 🌱 I’m currently learning solidarity
 - 💞️ I’m looking to collaborate on building any blockchain project
